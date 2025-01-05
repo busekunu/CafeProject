@@ -1,0 +1,19 @@
+﻿# Visual Studio temporary files, build results, and
+# User-specific files
+.vs/
+*.user
+*.suo
+*.log
+*.pdb
+*.obj
+*.exe
+
+# Build directories
+bin/
+obj/
+
+# Other unnecessary files
+*.tmp
+*.cache
+*.csproj.user
+*.vcxproj.user
